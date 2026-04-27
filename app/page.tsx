@@ -142,7 +142,7 @@ export default function Home() {
             result === "correct" ? "text-green-400" : "text-red-400"
           }`}
         >
-          {result === "correct" ? "Correct ✅" : "IncorrectComp ❌"}
+          {result === "correct" ? "Correct ✅" : "Incorrect ❌"}
         </p>
       )}
 
